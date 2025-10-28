@@ -18,3 +18,7 @@ Luego de $T$ segundos, usted debe lanzar otro proyectil desde la posición $(0,0
 * $v$ - velocidad inicial.
 * $\phi$ - ángulo de lanzamiento (en grados).
 * $T$ - tiempo después del cual se lanza el segundo proyectil.
+
+# Parámetros de salida
+* $u$ - velocidad inicial del segundo proyectil.
+* $\theta$ - ángulo de lanzamiento del segundo proyectil (en grados).
