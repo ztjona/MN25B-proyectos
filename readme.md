@@ -1,4 +1,4 @@
-# Proyecto Métodos Numéricos 2025-B
+# Proyecto Métodos Numéricos 2025-B [PRIMER BIMESTRE]
 
 Existe 3 opciones de proyectos disponibles. 
 Las instrucciones para cada proyecto se encuentran en la carpeta respectiva.
