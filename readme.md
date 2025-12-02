@@ -31,7 +31,7 @@ En caso que un grupo presente un proyecto sin haber tenido la confirmación corr
 ## Documentación
 La documentación consiste de:
 * Informe técnico.
-* ``requirements.txt`` con las dependencias, si las hubiera.
+* Listado de dependencias necesarias para ejecutar el programa. Se puede usar ``pipreqs/nb``-``requirements.txt``, ``uv``, ``Poetry`` o alguna herramienta similar.
 * De ser necesario, manual de instalación y uso.
 
 El Informe técnico debe contener introducción, metodología, resultados y conclusiones.
